@@ -1,0 +1,2 @@
+# We should install the firebase inside of project-folder>node_modules.
+# firebase> Realtime database > rules then make the read: true, and write: true.

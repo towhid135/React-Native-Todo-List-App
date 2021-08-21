@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "ToDoApp",
-    "slug": "ToDoApp",
+    "name": "Todo List",
+    "slug": "Todo-list-app",
+    "description":"This is a simple Todo list with firebase connected. Simple CRUD operations are performed throughout the app.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
